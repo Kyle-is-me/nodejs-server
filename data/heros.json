@@ -1,32 +1,38 @@
 [
    {
-      "id":1,
-      "name":"狗蛋",
-      "gender":"男",
-      "img":"../assets/image/0.jpg"
+      "id": 1,
+      "name": "狗蛋",
+      "gender": "男",
+      "img": "../assets/image/0.jpg"
    },
    {
-      "id":2,
-      "name":"sunny",
-      "gender":"女",
-      "img":"../assets/image/1.jpg"
+      "id": 2,
+      "name": "sunny",
+      "gender": "女",
+      "img": "../assets/image/1.jpg"
    },
    {
-      "id":3,
-      "name":"大海",
-      "gender":"男",
-      "img":"../assets/image/2.jpg"
+      "id": 3,
+      "name": "大海",
+      "gender": "男",
+      "img": "../assets/image/2.jpg"
    },
    {
-      "id":4,
-      "name":"康儿",
-      "gender":"男",
-      "img":"../assets/image/3.jpg"
+      "id": 4,
+      "name": "康儿",
+      "gender": "男",
+      "img": "../assets/image/3.jpg"
    },
    {
-      "id":5,
-      "name":"大波妹",
-      "gender":"女",
-      "img":"../assets/image/4.jpg"
-   }  
+      "id": 5,
+      "name": "大波妹",
+      "gender": "女",
+      "img": "../assets/image/4.jpg"
+   },
+   {
+      "img": "../assets/image/4.jpg",
+      "name": "廖大海",
+      "gender": "女",
+      "id": 6
+   }
 ]
